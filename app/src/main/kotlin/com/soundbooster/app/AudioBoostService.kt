@@ -10,7 +10,7 @@ import android.content.Context
 import android.content.Intent
 import android.content.IntentFilter
 import android.media.AudioManager
-import android.media.LoudnessEnhancer
+import android.media.audiofx.LoudnessEnhancer
 import android.media.audiofx.BassBoost
 import android.media.audiofx.Equalizer
 import android.os.Build
