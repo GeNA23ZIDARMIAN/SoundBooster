@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#0D0D1A</color>
+    <color name="card_bg">#1A1A2E</color>
+    <color name="accent">#00D4FF</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#888888</color>
+    <color name="button_off">#2A2A3E</color>
+    <color name="ic_launcher_background">#0D0D1A</color>
+</resources>
