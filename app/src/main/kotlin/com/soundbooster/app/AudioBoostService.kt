@@ -69,7 +69,7 @@ class AudioBoostService : Service() {
         try {
             loudnessEnhancer?.release()
             loudnessEnhancer = LoudnessEnhancer(0).apply {
-                setTargetGainmB(level * 10)  // 0–1000 мБ
+                setTargetGain(level * 10)  // 0–1000 мБ 
                 enabled = true
             }
         } catch (_: Exception) {}
